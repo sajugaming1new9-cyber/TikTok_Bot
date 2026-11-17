@@ -7,7 +7,7 @@ from collections import deque
 from playwright.sync_api import sync_playwright
 
 # --- CONFIGURACIÓN PRINCIPAL ---
-TOKEN_TELEGRAM = 'TU_TOKEN_AQUI' # ⚠️ Recuerda usar uno nuevo por seguridad
+TOKEN_TELEGRAM = '8912084580:AAEWu1A_OqL8Jm3KR20dCKo1u-YphKqM-gw' # ⚠️ Recuerda usar uno nuevo por seguridad
 PASSWORD_SISTEMA = "1234"
 MODO_OCULTO = False  # Cambia a True si no quieres ver cómo se abre el navegador
 
