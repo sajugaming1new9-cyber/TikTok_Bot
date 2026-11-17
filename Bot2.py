@@ -8,12 +8,12 @@ from collections import deque
 from playwright.sync_api import sync_playwright
 
 # --- CONFIGURACIÓN PRINCIPAL ---
-TOKEN_TELEGRAM = 'TU TOKEN DE TELEGRAM'
+TOKEN_TELEGRAM = '8912084580:AAEWu1A_OqL8Jm3KR20dCKo1u-YphKqM-gwM'
 PASSWORD_SISTEMA = "1234"
 MODO_OCULTO = False
 
 # ⚠️ OBLIGATORIO: Pon tu ID numérico de Telegram (búscalo en @userinfobot)
-ADMIN_CHAT_ID = "TU ID" 
+ADMIN_CHAT_ID = "8891475033" 
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 CARPETA_VIDEOS = os.path.join(BASE_DIR, 'cola_videos')
